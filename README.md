@@ -1,3 +1,4 @@
 # pythonProjectsIII
 
-It's the third phase of my Python projects
+My python projects in their third phase
+
